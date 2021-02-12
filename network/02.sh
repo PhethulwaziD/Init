@@ -1,0 +1,1 @@
+ifconfig lo | grep 'Link\|inet' | awk '{print $1}'
