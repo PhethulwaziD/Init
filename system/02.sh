@@ -1,0 +1,14 @@
+sudo hostname new-server-name-here
+#Then restart
+#Without restart
+# Next edit the /etc/hostname file and update hostname:
+# $ sudo nano /etc/hostname
+
+# Finally, edit the /etc/hosts file and update the lines that reads your old-host-name:
+# $ sudo nano /etc/hosts
+
+# From:
+# 127.0.1.1 old-host-name
+
+# To:
+# 127.0.1.1 new-server-name-here

@@ -1,0 +1,2 @@
+# https://www.cyberciti.biz/faq/linux-command-space-left-on-hard-disk-drive/
+df -T -h

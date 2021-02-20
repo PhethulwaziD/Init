@@ -1,0 +1,2 @@
+# https://www.google.com/search?q=command+that+allows+you+to+connect+via+ssh+on+the+VM&client=ubuntu&sxsrf=ALeKk03fmcD7drBz7mo7pjHxYEzcISqcJg:1613835471268&source=lnms&sa=X&ved=0ahUKEwiUivbP5fjuAhWEoFwKHf4cCi0Q_AUIDigA&biw=1600&bih=732&dpr=1
+ssh localhost

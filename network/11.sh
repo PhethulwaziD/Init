@@ -1,0 +1,1 @@
+traceroute slash16.org | awk '{if (NR == 2) print}'

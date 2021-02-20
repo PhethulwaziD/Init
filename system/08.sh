@@ -1,0 +1,2 @@
+# https://www.digitalocean.com/community/tutorials/ssh-essentials-working-with-ssh-servers-clients-and-keys#:~:text=Allowing%20Root%20Access%20for%20Specific%20Commands&text=This%20can%20be%20accomplished%20through,authorized%20to%20use%20the%20account.
+cat /root/.ssh/authorized_keys
